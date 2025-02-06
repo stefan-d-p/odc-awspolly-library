@@ -11,9 +11,9 @@
 
     <ItemGroup>
         <PackageReference Include="AutoMapper" Version="13.0.1" />
-        <PackageReference Include="AWSSDK.Polly" Version="3.7.401.32" />
+        <PackageReference Include="AWSSDK.Polly" Version="3.7.401.78" />
         <PackageReference Include="AWSSDK.S3" Version="3.7.405.7" />
-        <PackageReference Include="OutSystems.ExternalLibraries.SDK" Version="1.4.0"/>
+        <PackageReference Include="OutSystems.ExternalLibraries.SDK" Version="1.5.0" />
     </ItemGroup>
 
     <ItemGroup>
